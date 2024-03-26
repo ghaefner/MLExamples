@@ -93,3 +93,5 @@ src/__pycache__
 
 # Plots
 plots/*
+
+*.pdf
