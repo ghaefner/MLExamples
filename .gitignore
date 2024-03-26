@@ -81,9 +81,6 @@ ipython_config.py
 Pipfile.lock
 Pipfile
 
-# data
-data/*
-
 # Models
 models/
 
